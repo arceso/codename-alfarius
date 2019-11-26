@@ -1,0 +1,9 @@
+{
+  "short_name": "Alpharius",
+  "name": "Alpharius the 3D board game",
+  "icons": [""],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#3d3d3d",
+  "background_color": "#ffffff"
+}
