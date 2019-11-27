@@ -127,3 +127,5 @@ yarn-debug.log*
 yarn-error.log*
 .vscode/taskmarks.json
 yarn.lock
+
+node_modules
