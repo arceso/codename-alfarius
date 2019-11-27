@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/codename-alfarius/static/css/main.cfda8877.chunk.css",
+    "main.js": "/codename-alfarius/static/js/main.358077a9.chunk.js",
+    "main.js.map": "/codename-alfarius/static/js/main.358077a9.chunk.js.map",
+    "runtime-main.js": "/codename-alfarius/static/js/runtime-main.7f544927.js",
+    "runtime-main.js.map": "/codename-alfarius/static/js/runtime-main.7f544927.js.map",
+    "static/js/2.c0235b02.chunk.js": "/codename-alfarius/static/js/2.c0235b02.chunk.js",
+    "static/js/2.c0235b02.chunk.js.map": "/codename-alfarius/static/js/2.c0235b02.chunk.js.map",
+    "index.html": "/codename-alfarius/index.html",
+    "precache-manifest.7a7103283ebb314a0d009ef243aaa1ff.js": "/codename-alfarius/precache-manifest.7a7103283ebb314a0d009ef243aaa1ff.js",
+    "service-worker.js": "/codename-alfarius/service-worker.js",
+    "static/css/main.cfda8877.chunk.css.map": "/codename-alfarius/static/css/main.cfda8877.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7f544927.js",
+    "static/js/2.c0235b02.chunk.js",
+    "static/css/main.cfda8877.chunk.css",
+    "static/js/main.358077a9.chunk.js"
+  ]
+}
